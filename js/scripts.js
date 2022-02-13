@@ -12,8 +12,8 @@ window.addEventListener('DOMContentLoaded', event => {
     }
 
   };
-
    
+
   navbarShrink();
 
 
